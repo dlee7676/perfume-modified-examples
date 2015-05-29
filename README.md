@@ -1,0 +1,1 @@
+The developers of content for the website of Japanese pop group Perfume (http://www.perfume-global.com) released code that imports motion capture data from .bvh files, allowing it to be drawn with APIs like OpenGL. This repo contains modifications to their sample code to make several scenes with different visual effects.
